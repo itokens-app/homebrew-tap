@@ -1,6 +1,6 @@
 cask "itokens" do
-  version "0.1.0"
-  sha256 "bb22eb927d91631a138d093c9343ccf2ea664c7d51a5aa486ca2cb3f61246f82"
+  version "0.2.0"
+  sha256 "3718e42f8ab6016db794edaa95616a9aa28f81c6d5629a8a8c739b88ae03a0de"
 
   url "https://github.com/itokens-app/releases/releases/download/v#{version}/itokens-#{version}.zip"
   name "itokens"
